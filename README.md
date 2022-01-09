@@ -1,6 +1,7 @@
 # iPropertyScraper
 
 **Description**
+
 This a website scraper that scrapes property data from the iproperty.com website.
 The scraped property data contains information like price, number of bathrooms, number of bedrooms, number of carparks, land area, built-up area, location, etc.
 
